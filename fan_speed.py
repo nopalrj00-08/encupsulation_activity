@@ -1,0 +1,1 @@
+class Fan:    SLOW = 1    MIDIUM = 2    FAST = 3    def __init__(self, speed = MIDIUM, radius = 5.0, color = "BLUE", on = False ):        self.speed = speed        self.radius = radius        self.color = color        self.on = on
