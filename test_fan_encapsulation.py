@@ -1,0 +1,1 @@
+from fan_speed import Fanfirst_fan = Fan() #first fan objectfirst_fan.set_speed(Fan.FAST)first_fan.set_radius(10)fisrt_fan.set_color("yellow")first_fan.set_on(True)
