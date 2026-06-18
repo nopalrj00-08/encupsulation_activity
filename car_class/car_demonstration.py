@@ -1,0 +1,1 @@
+from car_class import Car    def main():        car = Car()        my_car = Car("2026","Ford")        car.set_color("red")        print(class_header("Accelerating..."))        car.accelerate(my_car)        for i in range (5):            my_car.accelerate(my_car)            print(f"Acceleration  {i+1}")
